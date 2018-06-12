@@ -1,1 +1,1 @@
-# TEP-meets-LSTM
+# TEP meets LSTM
