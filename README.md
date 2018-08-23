@@ -12,3 +12,5 @@ Feel free to contribute with this initiative and if you develop derived works ba
 # Bonus
 
 If you need a CC licensed picture of the TE-process flowsheet for your derived work, please feel free to use the following one.
+
+![alt text](https://github.com/gmxavier/TEP-meets-LSTM/blob/master/tep_flowsheet.png)
