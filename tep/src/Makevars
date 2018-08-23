@@ -1,0 +1,2 @@
+temain.so: temain.f
+	gfortran -c teprob.f && gfortran -shared -o temain.so temain.f teprob.o -lm -lc
