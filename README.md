@@ -7,9 +7,9 @@ This repository contains everything needed to reproduce the results presented in
 
 The figure below shows how this new approach (LSTM) outperforms several already published fault detection and diagnosis methods regarding the Fault 3, which is a notable difficult one.
 
-<p align="center">
+<div style="text-align:center" markdown="1">
 ![alt text](https://github.com/gmxavier/TEP-meets-LSTM/blob/master/performance_comparison.png)
-</p>
+</div>
 
 Feel free to contribute with this initiative and if you develop derived works based on these codes, please cite the already mentioned paper.
 
