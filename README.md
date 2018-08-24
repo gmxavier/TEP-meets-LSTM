@@ -5,13 +5,13 @@ This repository contains everything needed to reproduce the results presented in
 
 > Gilberto M. Xavier and José Manoel de Seixas. Fault Detection and Diagnosis in a Chemical Process using Long Short-Term Memory Recurrent Neural Network. 31st International Joint Conference on Neural Networks, IJCNN 2018. Rio de Janeiro, Brazil 8-13 July 2018.
 
-The figure below shows how this new approach (LSTM) outperforms several already published fault detection and diagnosis methods regarding the Fault 3, which is a notable difficult one.
+Feel free to contribute with this initiative and if you develop derived works based on these codes, please cite the already mentioned paper.
+
+The figure below shows how the new approach (LSTM) presented in this paper outperforms several already published fault detection and diagnosis methods regarding the Fault 3, which is a notable difficult one.
 
 <p align="center">
   <img width="800" height="600" src="https://github.com/gmxavier/TEP-meets-LSTM/blob/master/performance_comparison.png">
 </p>
-
-Feel free to contribute with this initiative and if you develop derived works based on these codes, please cite the already mentioned paper.
 
 # Bonus
 
