@@ -1,6 +1,8 @@
 
 # Chemical Process Fault Detection Using Long Short-Term Memory Recurrent Neural Network
 
+**[19/8/2021 UPDATE] I've added some chunk of code that allows running the notebook in the Colab environment.**
+
 This repository contains everything needed to reproduce the results presented in the following paper:
 
 > Gilberto M. Xavier and José Manoel de Seixas. Fault Detection and Diagnosis in a Chemical Process using Long Short-Term Memory Recurrent Neural Network. 31st International Joint Conference on Neural Networks, IJCNN 2018. Rio de Janeiro, Brazil 8-13 July 2018.
