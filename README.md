@@ -1,6 +1,8 @@
 
 # Chemical Process Fault Detection Using Long Short-Term Memory Recurrent Neural Network
 
+**[27/9/2021 UPDATE] If you are interested in a wrapper for Python, I recommend the one developed by [camaramm](https://github.com/camaramm/tep2py) based on the same modified FORTRAN code used here.**
+
 **[19/8/2021 UPDATE] I've added some chunk of code that allows running the notebook in the Colab environment.**
 
 This repository contains everything needed to reproduce the results presented in the following paper:
