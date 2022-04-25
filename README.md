@@ -5,7 +5,7 @@
 
 **[27/9/2021 UPDATE] Thanks to [@antonionicampos](https://github.com/antonionicampos) that contributed with a ported version for TF 2.0. By the way, if you are interested in a TEP wrapper for Python, I recommend the [`tep2py`](https://github.com/camaramm/tep2py) developed by [@camaramm](https://github.com/camaramm) and based on the same modified FORTRAN code used by [`tep`](https://github.com/gmxavier/TEP-meets-LSTM/tree/master/tep).**
 
-**[19/8/2021 UPDATE] I've added some chunk of code that allows running the [notebook](https://github.com/gmxavier/TEP-meets-LSTM/blob/master/tep-meets-lstm.ipynb) in the Colab environment.**
+**[19/8/2021 UPDATE] I've added some chunk of code that allows running this [notebook](https://github.com/gmxavier/TEP-meets-LSTM/blob/master/tep-meets-lstm.ipynb) in the Colab environment.**
 
 This repository contains everything needed to reproduce the results presented in the following paper:
 
