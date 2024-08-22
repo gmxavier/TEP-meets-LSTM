@@ -1,7 +1,7 @@
 
 # Chemical Process Fault Detection Using Long Short-Term Memory Recurrent Neural Network
 
-**[22/08/2024 UPDATE] Thanks to [@SamuelBFG](https://github.com/SamuelBFG) that fixed the ported version for TF 2.0 and also contributed with a ported version for PyTorch.**
+**[22/8/2024 UPDATE] Thanks to [@SamuelBFG](https://github.com/SamuelBFG) that fixed the ported version for TF 2.0 and also contributed with a ported version for PyTorch.**
 
 **[24/4/2022 UPDATE] The usage of the [`tep`](https://github.com/gmxavier/TEP-meets-LSTM/tree/master/tep), a TEP wrapper for R, is now available in this [notebook](https://github.com/gmxavier/TEP-meets-LSTM/blob/master/using-tep.ipynb).**
 
