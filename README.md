@@ -11,7 +11,7 @@
 
 This repository contains everything needed to reproduce the results presented in the following paper:
 
-> Gilberto M. Xavier and José Manoel de Seixas. Fault Detection and Diagnosis in a Chemical Process using Long Short-Term Memory Recurrent Neural Network. 31st International Joint Conference on Neural Networks, IJCNN 2018. Rio de Janeiro, Brazil 8-13 July 2018.
+> Gilberto M. Xavier and José Manoel de Seixas. [Fault Detection and Diagnosis in a Chemical Process using Long Short-Term Memory Recurrent Neural Network](https://doi.org/10.1109/IJCNN.2018.8489385). 31st International Joint Conference on Neural Networks, IJCNN 2018. Rio de Janeiro, Brazil 8-13 July 2018.
 
 Feel free to contribute with this initiative and if you develop derived works based on these codes, please cite the already mentioned paper.
 
